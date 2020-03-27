@@ -1,4 +1,4 @@
-import csv, os, sys
+import csv, os
 import requests
 from bs4 import BeautifulSoup
 
